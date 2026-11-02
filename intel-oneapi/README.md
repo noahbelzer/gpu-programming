@@ -1,7 +1,7 @@
 # Intel-oneAPI
 This repository contains programs for GPU programming using SYCL (DPC++).
 
-## Access on your HBIntel300 IdeaCentre Tower
+## Access on your PC
 - Go the start menu and open: Intel oneAPI command prompt for Intel 64 for Visual Studio 2026
 - Inside of this Intel oneAPI terminal, type: cd %USERPROFILE%
 - mkdir oneAPI_projects
